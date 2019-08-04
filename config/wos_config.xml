@@ -11,7 +11,7 @@
 					<page table="wos_page" ctr_id="wos_page:page_id" begin="wos_page:page_begin" end="wos_page:page_end" page_count="wos_page:page_count">wos_page:page_value</page>
 				</pub_info>
 				<titles count="wos_summary:title_count">
-					<title table="wos_titles" ctr_id="wos_titles:title_id" type="wos_titles:title_type" lang_id="wos_titles:lang_id" translated="wos_titles:translated" non_english="wos_titles:non_english" test="wos_titles:testX:testY">wos_titles:title</title>
+					<title table="wos_titles" ctr_id="wos_titles:title_id" type="wos_titles:title_type" lang_id="wos_titles:lang_id" translated="wos_titles:translated" non_english="wos_titles:non_english" >wos_titles:title</title>
 				</titles>
 				<names count="wos_summary:name_count">
 					<name table="wos_summary_names" ctr_id="wos_summary_names:name_id" addr_no="wos_summary_names:addr_no_raw" role="wos_summary_names:role" reprint="wos_summary_names:reprint" lang_id="wos_summary_names:lang_id" r_id="wos_summary_names:r_id" r_id_tr="wos_summary_names:r_id_tr" orcid_id="wos_summary_names:orcid_id" orcid_id_tr="wos_summary_names:orcid_id_tr" dais_id="wos_summary_names:dais_id" display="wos_summary_names:display" seq_no="wos_summary_names:seq_no">
