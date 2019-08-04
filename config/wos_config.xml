@@ -10,7 +10,7 @@
 				<pub_info coverdate="wos_summary:coverdate" has_abstract="wos_summary:has_abstract" issue="wos_summary:issue" pubmonth="wos_summary:pubmonth" pubtype="wos_summary:pubtype" pubyear="wos_summary:pubyear" sortdate="wos_summary:sortdate" vol="wos_summary:vol" season="wos_summary:season" pubday="wos_summary:pubday" edate="wos_summary:edate" voliss="wos_summary:voliss" supplement="wos_summary:supplement" special_issue="wos_summary:special_issue" part_no="wos_summary:part_no" medium="wos_summary:medium" model="wos_summary:model" indicator="wos_summary:indicator" inpi="wos_summary:inpi" is_archive="wos_summary:is_archive" city="wos_summary:city" country="wos_summary:country">
 					<page table="wos_page" ctr_id="wos_page:page_id" begin="wos_page:page_begin" end="wos_page:page_end" page_count="wos_page:page_count">wos_page:page_value</page>
 				</pub_info>
-				<titles count="wos_summary:title_count" test="wos_summary:test2:testdata">
+				<titles count="wos_summary:title_count">
 					<title table="wos_titles" ctr_id="wos_titles:title_id" type="wos_titles:title_type" lang_id="wos_titles:lang_id" translated="wos_titles:translated" non_english="wos_titles:non_english" test="wos_titles:testX:testY">wos_titles:title</title>
 				</titles>
 				<names count="wos_summary:name_count">
